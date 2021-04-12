@@ -89,6 +89,9 @@
 公有云产品的文档这个本身就是个很好的入门资料。
 ```
 
+## 优秀论文
+
+[pingcap新人培训论文](https://github.com/pingcap/awesome-database-learning)
 
 ## 参考文章
 
